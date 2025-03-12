@@ -20,7 +20,7 @@ export default async function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="/about"
+                  href="#"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
                   {t("about")}
@@ -28,7 +28,7 @@ export default async function Footer() {
               </li>
               <li>
                 <Link
-                  href="/careers"
+                  href="#"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
                   {t("careers")}
@@ -36,7 +36,7 @@ export default async function Footer() {
               </li>
               <li>
                 <Link
-                  href="/blog"
+                  href="#"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
                   {t("blog")}
@@ -50,7 +50,7 @@ export default async function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="/terms"
+                  href="#"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
                   {t("terms")}
@@ -58,7 +58,7 @@ export default async function Footer() {
               </li>
               <li>
                 <Link
-                  href="/privacy"
+                  href="#"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
                   {t("privacy")}
@@ -66,7 +66,7 @@ export default async function Footer() {
               </li>
               <li>
                 <Link
-                  href="/cookies"
+                  href="#"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
                   {t("cookies")}
