@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { getTranslations } from "next-intl/server";
-import HeroImage from "@/public/hero.avif";
+import HeroImage from "@/public/hero.png";
 
 export default async function Hero() {
   const t = await getTranslations("hero");
