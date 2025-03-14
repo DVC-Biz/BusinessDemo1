@@ -15,19 +15,19 @@ export default async function Testimonials() {
       quote: t("items.0.quote"),
       author: t("items.0.author"),
       role: t("items.0.role"),
-      avatar: "/placeholder.svg?height=100&width=100",
+      avatar: "/profile1.svg",
     },
     {
       quote: t("items.1.quote"),
       author: t("items.1.author"),
       role: t("items.1.role"),
-      avatar: "/placeholder.svg?height=100&width=100",
+      avatar: "/profile2.svg",
     },
     {
       quote: t("items.2.quote"),
       author: t("items.2.author"),
       role: t("items.2.role"),
-      avatar: "/placeholder.svg?height=100&width=100",
+      avatar: "/profile3.svg",
     },
   ];
 
